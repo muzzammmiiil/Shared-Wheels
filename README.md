@@ -1,9 +1,9 @@
  SHARED WHEELS (CARPOOL MANAGEMENT SYSTEM) — README
 
 GROUP MEMBERS:
-CT-25124 Syed Muhammad Talha Abdullah
-CT-25129 Muhammad Muzzammil
-CT_25130 Syed Shahmeer Javaid
+Syed Muhammad Talha Abdullah
+Muhammad Muzzammil
+Syed Shahmeer Javaid
 
 HOW TO COMPILE:
 
