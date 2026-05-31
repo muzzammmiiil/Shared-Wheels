@@ -8,7 +8,7 @@ Muhammad Muzzammil
 
 Syed Shahmeer Javaid
 
-HOW TO COMPILE:
+HOW TO COMPILE: 
 
 Make sure you have g++ installed (MinGW on Windows, or GCC on Linux/Mac).
 
