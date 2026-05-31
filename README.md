@@ -90,7 +90,7 @@ OOP FEATURES IMPLEMENTED:
     - All data persisted to .txt files using fstream (ofstream / ifstream)
 
 11. STL USAGE
-    - vector, map, algorithm (find_if, sort, transform, all_of)
+    - vector, map, algorithm (find_if, sort, transform, all_of) 
 
 12. INPUT VALIDATION
     - Phone number length & digit checks
